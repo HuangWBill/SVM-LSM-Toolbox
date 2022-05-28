@@ -22,7 +22,7 @@ The *manual* folder contains two **PDF** files.
 
 ### ***Relevant literature: DOI:XXXXXX***
 
-### ***If you use this toolkit in your research, please cite to the literature as follows:***  
+### ***If you use this toolbox in your research, please cite to the literature as follows:***  
 ***XXXXXXXXXX***
 
 ### ***If you have any problems with your usage, you can send an email to huangwubiao@chd.edu.cn.***
