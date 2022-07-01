@@ -8,7 +8,9 @@ The toolbox realizes landslide susceptibility mapping based on a support vector 
 
 Influence factor production provides automatic calculation of DEM-related topographic factors, convert line vector data to continuous raster factor, and rainfall data processing. Factor selection uses PCC to calculate the correlation between factors, and IGR to calculate the contribution of factors to landslide occurrence. Dataset sample production includes automatic generation of non-landslides data, data sample production, and dataset split. The accuracy, precision, recall, F1 value, receiver operating characteristic (ROC) and area under curve (AUC) were used to evaluate the prediction ability of the model. In addition, we provide two methods, single process and multiprocessing, to generate LSM. The prediction efficiency of multiprocessing is much higher than that of single process.
 
-## It includes the *toolbox* folder and the *manual* folder. The details are as follows:
+## It includes the *Feasibility and generalizability of toolbox* folder, the *toolbox* folder and the *manual* folder. The details are as follows:
+
+the *Feasibility and generalizability of toolbox* folder contains the model training codes of decision tree (DT), support vector machine (SVM) and random forest (RF) models and the experimental results in Wuqi County.
 
 The *toolbox* folder contains a **.tbx** format toolbox and  two **dist** folders that necessary for the multiprocessing prediction tools to run.
 
