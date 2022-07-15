@@ -8,9 +8,9 @@ The toolbox realizes landslide susceptibility mapping based on a support vector 
 
 Influence factor production provides automatic calculation of DEM-related topographic factors, convert line vector data to continuous raster factor, and rainfall data processing. Factor selection uses PCC to calculate the correlation between factors, and IGR to calculate the contribution of factors to landslide occurrence. Dataset sample production includes automatic generation of non-landslides data, data sample production, and dataset split. The accuracy, precision, recall, F1 value, receiver operating characteristic (ROC) and area under curve (AUC) were used to evaluate the prediction ability of the model. In addition, we provide two methods, single process and multiprocessing, to generate LSM. The prediction efficiency of multiprocessing is much higher than that of single process.
 
-## It includes the *Feasibility and generalizability of toolbox* folder, the *toolbox* folder and the *manual* folder. The details are as follows:
+## It includes the *Article.pdf* file, the *toolbox* folder and the *manual* folder. The details are as follows:
 
-the *Feasibility and generalizability of toolbox* folder contains the model training codes of decision tree (DT), support vector machine (SVM) and random forest (RF) models and the experimental results in Wuqi County.
+the *Article.pdf* file is an article related to SVM LSM toolbox, entitled "An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox".
 
 The *toolbox* folder contains a **.tbx** format toolbox and  two **dist** folders that necessary for the multiprocessing prediction tools to run.
 
@@ -22,9 +22,9 @@ The *manual* folder contains two **PDF** files.
   
 ## Others:
 
-### ***Relevant literature: DOI:XXXXXX***
+### ***Relevant literature: DOI: https://doi.org/10.3390/rs14143408***
 
 ### ***If you use this toolbox in your research, please cite to the literature as follows:***  
-***XXXXXXXXXX***
+***Huang, W.; Ding, M.; Li, Z.; Zhuang, J.; Yang, J.; Li, X.; Meng, L.; Zhang, H.; Dong, Y. An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox. Remote Sens. 2022, 14, 3408. https://doi.org/10.3390/rs14143408***
 
 ### ***If you have any problems with your usage, you can send an email to huangwubiao@chd.edu.cn.***
