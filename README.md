@@ -10,7 +10,7 @@ Influence factor production provides automatic calculation of DEM-related topogr
 
 ## It includes the *Article.pdf* file, the *toolbox* folder and the *manual* folder. The details are as follows:
 
-the *Article.pdf* file is an article related to SVM LSM toolbox, entitled "An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox".
+the *Article.pdf* file is an article related to SVM-LSM toolbox, entitled "An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox".
 
 The *toolbox* folder contains a **.tbx** format toolbox and  two **dist** folders that necessary for the multiprocessing prediction tools to run.
 
