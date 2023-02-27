@@ -28,3 +28,7 @@ The *manual* folder contains two **PDF** files.
 ***Huang, W.; Ding, M.; Li, Z.; Zhuang, J.; Yang, J.; Li, X.; Meng, L.; Zhang, H.; Dong, Y. An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox. Remote Sens. 2022, 14, 3408. https://doi.org/10.3390/rs14143408***
 
 ### ***If you have any problems with your usage, you can send an email to huangwubiao@chd.edu.cn.***
+
+## Update records：
+### February 27, 2023：
+  According to the feedback of ***"ValueError: invalid literal for int() with base 10:'0.' "*** error in the *"Model Training and Performance Evaluation of SVM"*, *"Landslide Susceptibility Map Prediction (Single process)"* and *"Landslide Susceptibility Map Prediction (Multiprocessing)"* tool during the user's use, the toolbox was updated on **February 27, 2023** to solve the above problems.
