@@ -32,3 +32,12 @@ The *manual* folder contains two **PDF** files.
 ## Update records：
 ### February 27, 2023：
   According to the feedback of ***"ValueError: invalid literal for int() with base 10:'0.' "*** error in the *"Model Training and Performance Evaluation of SVM"*, *"Landslide Susceptibility Map Prediction (Single process)"* and *"Landslide Susceptibility Map Prediction (Multiprocessing)"* tool during the user's use, the toolbox was updated on **February 27, 2023** to solve the above problems.
+
+## Notification:
+Hello, teachers and scholars!
+Due to the change of my research direction and other reasons, I may not maintain the SVM-LSM Toolbox in the near future. If you have some problems that cannot be solved, you can join the WeChat group below (the QR code is valid for 7 days) to communicate and learn from each other. We deeply apologize for not being able to reply to your emails in time!
+Wishing you all good luck in your research and good health!
+
+SVM-LSM Toolbox Developer
+10th August 2023
+![image](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/fcfd064e-3992-46ef-8789-596c6b4a2386)
