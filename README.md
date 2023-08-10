@@ -35,9 +35,12 @@ The *manual* folder contains two **PDF** files.
 
 ## Notification:
 Hello, teachers and scholars!
+
 Due to the change of my research direction and other reasons, I may not maintain the SVM-LSM Toolbox in the near future. If you have some problems that cannot be solved, you can join the WeChat group below (the QR code is valid for 7 days) to communicate and learn from each other. We deeply apologize for not being able to reply to your emails in time!
 Wishing you all good luck in your research and good health!
 
 SVM-LSM Toolbox Developer
+
 10th August 2023
+
 ![image](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/fcfd064e-3992-46ef-8789-596c6b4a2386)
