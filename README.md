@@ -32,6 +32,10 @@ The *manual* folder contains two **PDF** files.
 ## Update records：
 ### February 27, 2023：
   According to the feedback of ***"ValueError: invalid literal for int() with base 10:'0.' "*** error in the *"Model Training and Performance Evaluation of SVM"*, *"Landslide Susceptibility Map Prediction (Single process)"* and *"Landslide Susceptibility Map Prediction (Multiprocessing)"* tool during the user's use, the toolbox was updated on **February 27, 2023** to solve the above problems.
+### August 22, 2023：
+  According to the feedback of users, Add ***Supplementary instructions (required reading).txt*** in ***manual*** folder. This *.txt* file can help users better use the toolbox. The file content is as follows:
+
+  **Note: During the use of the toolbox, all files must be loaded from the path, cannot be directly selected from the software interface’s layers, otherwise an error will occur.**
 
 ## Notification:
 Hello, teachers and scholars!
