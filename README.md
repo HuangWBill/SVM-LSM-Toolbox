@@ -47,5 +47,4 @@ SVM-LSM Toolbox Developer
 
 10th August 2023
 
-![SVM-LSM_Toolbox](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/211e662a-3e81-4688-a9fc-b3fca1e330f6)
-
+![WeChat](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/e9477c87-ae2a-48f5-9349-18e5fcddf0ef)
