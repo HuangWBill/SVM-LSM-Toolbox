@@ -27,7 +27,8 @@ The *manual* folder contains two **PDF** files.
 ### ***If you use this toolbox in your research, please cite to the literature as follows:***  
 ***Huang, W.; Ding, M.; Li, Z.; Zhuang, J.; Yang, J.; Li, X.; Meng, L.; Zhang, H.; Dong, Y. An Efficient User-Friendly Integration Tool for Landslide Susceptibility Mapping Based on Support Vector Machines: SVM-LSM Toolbox. Remote Sens. 2022, 14, 3408. https://doi.org/10.3390/rs14143408***
 
-### ***If you have any problems with your usage, you can send an email to huangwubiao@chd.edu.cn.***
+### ***If you have the problems related to the use of the toolbox with your usage, you can send an email to huangwubiao@chd.edu.cn.***
+### ***If you have the problems related to obtain the dataset and code, you can contact the corresponding author.***
 
 ## Update records：
 ### February 27, 2023：
