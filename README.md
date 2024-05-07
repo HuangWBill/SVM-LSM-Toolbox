@@ -48,5 +48,4 @@ SVM-LSM Toolbox Developer
 
 10th August 2023
 
-![微信图片_20240423215622](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/7c35780e-c4eb-4e58-b7c8-193e7b605fe6)
-
+![微信图片_20240507094330](https://github.com/HuangWBill/SVM-LSM-Toolbox/assets/76198298/ac4c74d0-110b-4064-bd79-1e7d558901a2)
