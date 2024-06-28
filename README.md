@@ -1,4 +1,15 @@
-# SVM-LSM-Toolbox
+<div align="center">
+    <h2>
+        SVM-LSM-Toolbox
+    </h2>
+</div>
+
+<div align="center">
+    <img src="figs/01.png"/>
+</div>
+
+## Introduction
+
 Landslide susceptibility mapping (LSM) is an important part of landslide risk assessment, but the process often needs to span multiple platforms, and the operation process is complex. We develops an efficient user-friendly toolbox including the whole process of LSM: **SVM-LSM toolbox**.
 
 The toolbox realizes landslide susceptibility mapping based on a support vector machine (SVM), which can be integrated into **ArcGIS 10.1 (or higher) or ArcGIS Pro platform**. The toolbox includes three sub-toolboxes, namely:  
