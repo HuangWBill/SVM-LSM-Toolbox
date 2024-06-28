@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="figs/01.png"/>
+    <img src="fig/01.png"/>
 </div>
 
 ## Introduction
@@ -16,6 +16,10 @@ The toolbox realizes landslide susceptibility mapping based on a support vector 
   *(1) influence factor production;*  
   *(2) dataset production and factor selection;*  
   *(3) model training and prediction.*
+  
+<div align="center">
+    <img src="fig/02.png"/>
+</div>
 
 Influence factor production provides automatic calculation of DEM-related topographic factors, convert line vector data to continuous raster factor, and rainfall data processing. Factor selection uses PCC to calculate the correlation between factors, and IGR to calculate the contribution of factors to landslide occurrence. Dataset sample production includes automatic generation of non-landslides data, data sample production, and dataset split. The accuracy, precision, recall, F1 value, receiver operating characteristic (ROC) and area under curve (AUC) were used to evaluate the prediction ability of the model. In addition, we provide two methods, single process and multiprocessing, to generate LSM. The prediction efficiency of multiprocessing is much higher than that of single process.
 
