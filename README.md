@@ -63,8 +63,3 @@ SVM-LSM Toolbox Developer
 
 10th August 2023
 
-<div align="center">
-    <img src="fig/03.png"/>
-</div>
-
-
