@@ -24,9 +24,9 @@ ___________
 ## Table of Contents
 * [News](#News)
 * [Abstract](#Abstract)
-* [Toolbox introduction](#Toolbox introduction)
-* [Installation and usage](#Installation and usage)
-* [Case and results](#Case and results)
+* [Toolbox_introduction](#Toolbox introduction)
+* [Installation_and_usage](#Installation and usage)
+* [Case_and_results](#Case and results)
 * [Citation](#Citation)
 * [Contact](#Contact)
 * [Notification](#Notification)
