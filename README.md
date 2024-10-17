@@ -22,15 +22,14 @@
 ___________
 
 ## Table of Contents
-* [News](##News)
-* [Abstract](##Abstract)
-* [Toolbox introduction](##Toolbox introduction)
-* [Installation and usage](##Installation and usage)
-* [Case and results](##Case and results)
-
-* [Citation](##Citation)
-* [Contact](##Contact)
-* [Notification](##Notification)
+* [News](#News)
+* [Abstract](#Abstract)
+* [Toolbox introduction](#Toolbox introduction)
+* [Installation and usage](#Installation and usage)
+* [Case and results](#Case and results)
+* [Citation](#Citation)
+* [Contact](#Contact)
+* [Notification](#Notification)
 ___________
 
 ## News
@@ -96,6 +95,7 @@ ___________
 | Landslide susceptibility map prediction(single process) | 2 h 53 min 15 s   | 1 h 26 min 47 s  |
 | Landslide susceptibility map prediction(multiprocessing) | 21 min 51 s   | 20 min 12 s  |
 | Total<sup>†</sup> | 5 h 19 min 27 s / 2 h 48 min 3 s   | 2 h 58 min 39 s / 1 h 52 min 4 s  |
+
 Notes: “Data sample production”, “dataset split” and “image generation to be predicted” tools must be run twice. * indicates that the first run time and the second run time, and † shows the total single process running time and the total multiprocessing running time.
 
 ## Citation
@@ -127,4 +127,4 @@ If you have the problems related to obtain the dataset and code, you can contact
 >
 > 10th August 2023
 > 
-> ![img](./figure/04.png)
+> ![img](./figure/04.jpg)
