@@ -22,15 +22,14 @@
 ___________
 
 ## Table of Contents
-* [News](##News)
-* [Abstract](##Abstract)
-* [Toolbox introduction](##Toolbox introduction)
-* [Installation and usage](##Installation and usage)
-* [Case and results](##Case and results)
-
-* [Citation](##Citation)
-* [Contact](##Contact)
-* [Notification](##Notification)
+* [News](#News)
+* [Abstract](#Abstract)
+* [Toolbox introduction](#Toolbox_introduction)
+* [Installation and usage](#Installation_and_usage)
+* [Case and results](#Case_and_results)
+* [Citation](#Citation)
+* [Contact](#Contact)
+* [Notification](#Notification)
 ___________
 
 ## News
@@ -43,7 +42,7 @@ ___________
 ## Abstract
 > *Landslide susceptibility mapping (LSM) is an important element of landslide risk assessment, but the process often needs to span multiple platforms and the operation process is complex. This paper develops an efficient user-friendly toolbox including the whole process of LSM, known as the SVM-LSM toolbox. The toolbox realizes landslide susceptibility mapping based on a support vector machine (SVM), which can be integrated into the ArcGIS or ArcGIS Pro platform. The toolbox includes three sub-toolboxes, namely: (1) influence factor production, (2) factor selection and dataset production, and (3) model training and prediction. Influence factor production provides automatic calculation of DEM-related topographic factors, converts line vector data to continuous raster factors, and performs rainfall data processing. Factor selection uses the Pearson correlation coefficient (PCC) to calculate the correlations between factors, and the information gain ratio (IGR) to calculate the contributions of different factors to landslide occurrence. Dataset sample production includes the automatic generation of non-landslide data, data sample production and dataset split. The accuracy, precision, recall, F1 value, receiver operating characteristic (ROC) and area under curve (AUC) are used to evaluate the prediction ability of the model. In addition, two methods (single processing and multiprocessing) are used to generate LSM. The prediction efficiency of multiprocessing is much higher than that of the single process. In order to verify the performance and accuracy of the toolbox, Wuqi County, Yan’an City, Shaanxi Province was selected as the test area to generate LSM. The results show that the AUC value of the model is 0.8107. At the same time, the multiprocessing prediction tool improves the efficiency of the susceptibility prediction process by about 60%. The experimental results confirm the accuracy and practicability of the proposed toolbox in LSM.*
 
-## Toolbox introduction
+## Toolbox_introduction
 > Landslide susceptibility mapping (LSM) is an important part of landslide risk assessment, but the process often needs to span multiple platforms, and the operation process is complex. We develops an efficient user-friendly toolbox including the whole process of LSM: SVM-LSM toolbox.
 >
 > The toolbox realizes landslide susceptibility mapping based on a support vector machine (SVM), which can be integrated into ArcGIS 10.1 (or higher) or ArcGIS Pro platform. The toolbox includes three sub-toolboxes, namely:
@@ -55,7 +54,7 @@ ___________
 >
 >Influence factor production provides automatic calculation of DEM-related topographic factors, convert line vector data to continuous raster factor, and rainfall data processing. Factor selection uses PCC to calculate the correlation between factors, and IGR to calculate the contribution of factors to landslide occurrence. Dataset sample production includes automatic generation of non-landslides data, data sample production, and dataset split. The accuracy, precision, recall, F1 value, receiver operating characteristic (ROC) and area under curve (AUC) were used to evaluate the prediction ability of the model. In addition, we provide two methods, single process and multiprocessing, to generate LSM. The prediction efficiency of multiprocessing is much higher than that of single process.
 
-## Installation and usage
+## Installation_and_usage
 > The toolbox folder contains a .tbx format toolbox and two dist folders that necessary for the multiprocessing prediction tools to run.
 > * The toolbox installation can be found in [Manual/Installation Instructions and Toolbox Introduction.pdf](./Manual/Installation Instructions and Toolbox Introduction.pdf)
 > * The usage introduction can be found in [Manual/Usage Process (Case).pdf](./Manual/Usage Process(Case).pdf)
@@ -63,7 +62,7 @@ ___________
 > #### The required reading file before use! [Manual/Supplementary instructions(required reading).pdf](./Manual/Supplementary instructions(required reading).pdf)
 >> #### Recommended dependent software version: *ArcGIS 10.8 and ArcGIS Pro 2.5* 
 
-## Case and results
+## Case_and_ results
 > Wuqi County, Yan’an City, Shaanxi Province was selected as the test area to to verify the performance and accuracy of the toolbox.
 
 ![img](./figure/03.jpg)
@@ -96,6 +95,7 @@ ___________
 | Landslide susceptibility map prediction(single process) | 2 h 53 min 15 s   | 1 h 26 min 47 s  |
 | Landslide susceptibility map prediction(multiprocessing) | 21 min 51 s   | 20 min 12 s  |
 | Total<sup>†</sup> | 5 h 19 min 27 s / 2 h 48 min 3 s   | 2 h 58 min 39 s / 1 h 52 min 4 s  |
+
 Notes: “Data sample production”, “dataset split” and “image generation to be predicted” tools must be run twice. * indicates that the first run time and the second run time, and † shows the total single process running time and the total multiprocessing running time.
 
 ## Citation
@@ -127,4 +127,4 @@ If you have the problems related to obtain the dataset and code, you can contact
 >
 > 10th August 2023
 > 
-> ![img](./figure/04.png)
+> ![img](./figure/04.jpg)
