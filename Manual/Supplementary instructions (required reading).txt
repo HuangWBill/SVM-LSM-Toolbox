@@ -1,1 +1,0 @@
-Note: During the use of the toolbox, all files must be loaded from the path, cannot be directly selected from the software interface’s layers, otherwise an error will occur.
