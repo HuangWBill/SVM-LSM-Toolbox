@@ -33,7 +33,7 @@ ___________
 ___________
 
 ## News
-- [2024-10-20] Rewrite the readme.md and update Supplementary instructions(required reading).pdf based on user feedback.
+- [2024-10-17] Rewrite the readme.md and update Supplementary instructions(required reading).pdf based on user feedback.
 - [2023-08-22] According to the feedback of users, Add Supplementary instructions (required reading).txt in manual folder. This .txt file can help users better use the toolbox.
 - [2023-02-27] According to the feedback of "ValueError: invalid literal for int() with base 10:'0.' " error in the "Model Training and Performance Evaluation of SVM", "Landslide Susceptibility Map Prediction (Single process)" and "Landslide Susceptibility Map Prediction (Multiprocessing)" tool during the user's use, the toolbox was updated on February 27, 2023 to solve the above problems.
 - [2022-07-20] The Toolbox have been released.
