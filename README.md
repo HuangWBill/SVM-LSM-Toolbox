@@ -56,10 +56,10 @@ ___________
 
 ## Installation_and_usage
 > The toolbox folder contains a .tbx format toolbox and two dist folders that necessary for the multiprocessing prediction tools to run.
-> * The toolbox installation can be found in [Manual/Installation Instructions and Toolbox Introduction.pdf](./Manual/Installation Instructions and Toolbox Introduction.pdf)
-> * The usage introduction can be found in [Manual/Usage Process (Case).pdf](./Manual/Usage Process(Case).pdf)
+> * The toolbox installation can be found in [Manual/Installation Instructions and Toolbox Introduction.pdf](./Manual/Installation_Instructions_and_Toolbox_Introduction.pdf)
+> * The usage introduction can be found in [Manual/Usage Process (Case).pdf](./Manual/Usage_Process(Case).pdf)
 > 
-> #### The required reading file before use! [Manual/Supplementary instructions(required reading).pdf](./Manual/Supplementary instructions(required reading).pdf)
+> #### The required reading file before use! [Manual/Supplementary instructions(required reading).pdf](./Manual/Supplementary_instructions(required_reading).pdf)
 >> #### Recommended dependent software version: *ArcGIS 10.8 and ArcGIS Pro 2.5* 
 
 ## Case_and_results
