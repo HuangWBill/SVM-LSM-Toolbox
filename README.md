@@ -61,6 +61,7 @@ ___________
 > 
 > #### The required reading file before use! [Manual/Supplementary instructions(required reading).pdf](./Manual/Supplementary_instructions(required_reading).pdf)
 >> #### Recommended dependent software version: *ArcGIS 10.8 and ArcGIS Pro 2.5* 
+> If you need deep learning methods (CNN, LSTM and Conv-SE-LSTM), please refer to our other work: [Landslide susceptibility mapping and dynamic response along the Sichuan-Tibet transportation corridor using deep learning algorithms](https://github.com/HuangWBill/DL_LSM)
 
 ## Case_and_results
 > Wuqi County, Yan’an City, Shaanxi Province was selected as the test area to to verify the performance and accuracy of the toolbox.
